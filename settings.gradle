@@ -1,0 +1,1 @@
+include ':app', ':module_music', ':module_book', ':module_common'
